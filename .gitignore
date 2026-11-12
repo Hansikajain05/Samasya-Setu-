@@ -1,0 +1,4 @@
+target/
+samasyasetu.db
+samasyasetu.db-*
+*.log
