@@ -54,3 +54,7 @@ See `DATABASE.md` for a short table-by-table guide and the API route list.
 ## College-demo scope
 
 The Government account is a demonstration role, not real government authentication. Sessions live in memory and end when the server stops. Reports are grouped by category and distance; the prototype does not use AI to decide whether two descriptions mean the same thing. Do not enter sensitive personal information.
+
+## Project Repository
+
+[Samasya Setu GitHub Repo](https://github.com/Hansikajain05/Samasya-Setu-)
